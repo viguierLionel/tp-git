@@ -11,7 +11,7 @@ package beans;
  */
 public class BEANS {
             
-            
+            //j'ai une blague: HARICO LOOOOOOOOOOOOOOOOOOOOL!!!!!!
 
     /**
      * @param args the command line arguments
