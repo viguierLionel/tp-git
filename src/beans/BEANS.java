@@ -14,6 +14,7 @@ public class BEANS {
             //j'ai une blague: HARICO LOOOOOOOOOOOOOOOOOOOOL!!!!!!
 
     /**
+     * Qu'est ce qui se passe quand pikachu pète dans l'eau ? ca fait des bulles bizarres
      * @param args the command line arguments
      */
     public static void main(String[] args) {
