@@ -16,6 +16,8 @@ public class BEANS {
     
             // moi aussi mdr : melon et meleche mangent une glace
             // melon mange le cornet et meleche les boules
+            // melon et meleche partent en voilier
+            // melon s'occupe des voiles et meleche la barre
 
     /**
      * Qu'est ce qui se passe quand pikachu pète dans l'eau ? ca fait des bulles bizarres
