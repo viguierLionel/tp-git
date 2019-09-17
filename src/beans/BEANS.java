@@ -12,6 +12,10 @@ package beans;
 public class BEANS {
             
             //j'ai une blague: HARICO LOOOOOOOOOOOOOOOOOOOOL!!!!!!
+    
+    
+            // moi aussi mdr : melon et meleche mangent une glace
+            // melon mange le cornet et meleche les boules
 
     /**
      * @param args the command line arguments
