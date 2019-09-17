@@ -18,6 +18,9 @@ public class TP1 {
         // TODO code application logic here
         //beans
         //beans
+        //more beans !
+        //some rice
+        //more rice !
     }
     
 }
